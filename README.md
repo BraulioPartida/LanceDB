@@ -61,8 +61,5 @@ Para realizar contribuciones al proyecto (como sugerencias, cambios en los noteb
 4. Envía un pull request con tus cambios.
 
 ## Notas Importantes
-
-- **Material Previo a la Presentación:** El código y el entorno deben estar disponibles en GitHub al menos 24 horas antes de la presentación. Cualquier retraso en la disponibilidad del material se penalizará.
-- **Compatibilidad:** Las instrucciones proporcionadas están diseñadas para sistemas Linux. Si tienes problemas en otros sistemas, consulta `tutoriales/troubleshooting.md`.
 - **Deshonestidad Académica:** Cualquier evidencia de deshonestidad académica en los ejercicios resultará en una calificación de 0 para toda la presentación.
 

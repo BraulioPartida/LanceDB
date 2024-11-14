@@ -35,8 +35,7 @@ Para trabajar con este proyecto, existen dos opciones de instalación:
 
 Los notebooks en la carpeta `notebooks/` cubren los siguientes temas:
 
-- **`lanceDB_demo.ipynb`**: Introducción y operaciones básicas en LanceDB.
-- **`advanced_examples.ipynb`**: Ejemplos avanzados, incluyendo consultas complejas y optimización de rendimiento.
+- **`lanceDB.ipynb`**: Introducción y operaciones básicas en LanceDB.
 
 ## Ejercicios de Evaluación
 

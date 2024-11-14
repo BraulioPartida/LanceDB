@@ -18,7 +18,7 @@ El repositorio está estructurado para cubrir todos los aspectos de configuraci�
 - **`notebooks/`**: Notebooks de Jupyter donde se presentan ejemplos prácticos y se explora el funcionamiento de LanceDB.
 - **`tutoriales/`**: Guías detalladas de instalación, configuración y uso de LanceDB, así como solución de problemas comunes.
 - **`ejercicios/`**: Ejercicios para reforzar el aprendizaje y evaluar los conocimientos adquiridos.
-- **`src/`**: Código fuente con scripts y funciones auxiliares para configurar y manejar la base de datos.
+- **`codigo/`**: Código fuente con scripts y funciones auxiliares para configurar y manejar la base de datos.
 - **`datasets/`**: Datasets de ejemplo para probar y demostrar el uso de LanceDB.
 
 ## Instalación y Configuración

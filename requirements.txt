@@ -1,0 +1,11 @@
+lancedb
+pandas
+numpy
+sentence-transformers
+Pillow
+torch
+torchvision
+librosa
+pyarrow
+polars
+matplotlib

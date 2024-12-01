@@ -23,3 +23,6 @@ vendor/
 # Ignorar archivos de entorno
 .env
 .venv
+introdb
+introdb2
+vectorial_db

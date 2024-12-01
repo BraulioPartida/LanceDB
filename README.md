@@ -46,6 +46,3 @@ Los notebooks en la carpeta `notebooks/` cubren los siguientes temas:
 3. Realiza la tarea.
 4. Envía un pull request.
 
-## Notas Importantes
-- **Deshonestidad Académica:** Cualquier evidencia de deshonestidad académica en los ejercicios resultará en una calificación de 0 para toda la presentación.
-

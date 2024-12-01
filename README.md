@@ -26,13 +26,11 @@ El repositorio está estructurado para cubrir todos los aspectos de configuraci�
 Para trabajar con este proyecto, existen dos opciones de instalación: 
 
 ### Opción 1: Entorno Local 
-Crea el entorno virtual usando VS Code:
-
-Pulsa CTRL + SHIFT + P o CMD + SHIFT + P (en Mac).
-Escribe >Create Environment y selecciona la opción Venv.
-Elige tu intérprete de Python instalado en el sistema.
-Marca la casilla para usar el archivo requirements.txt.
-Presiona ENTER.
+   1. Pulsa `CTRL + SHIFT + P` o `CMD + SHIFT + P` (en Mac).  
+   2. Escribe `>Create Environment` y selecciona la opción **Venv**.  
+   3. Elige tu intérprete de Python instalado en el sistema.  
+   4. Marca la casilla para usar el archivo `requirements.txt`.  
+   5. Presiona `ENTER`.  
 
 ### Opción 2: Uso de Docker
 

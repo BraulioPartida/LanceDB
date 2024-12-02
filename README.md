@@ -52,8 +52,9 @@ Los notebooks en la carpeta `notebooks/` cubren los siguientes temas:
 
 - **`00_intro_lancedb.ipynb`**: Introducción general a LanceDB. Cubre conceptos básicos.
 - **`01_busqueda_ANN.ipynb`**: Demostración de búsquedas aproximadas en estructuras vectoriales utilizando LanceDB.
-- **`02_consultas_vectoriales.ipynb`**: Ejercicios prácticos sobre cómo realizar consultas vectoriales complejas con LanceDB.
-- **`Tarea_LanceDB.ipynb`**: Template del notebook destinada a tarea.
+- **`02_consultas_vectoriales.ipynb`**: Ejercicios prácticos sobre cómo realizar consultas vectoriales sobre embeddings de texto, imágenes y audio con LanceDB.
+- **`03_recomendaciones_peliculas.ipynb`**: Implementación de un sistema de recomendación de películas utilizando embeddings y consultas vectoriales con LanceDB.
+- **`Tarea_LanceDB.ipynb`**: Notebook destinada a tarea.
 
 
 ## Tareas

@@ -26,14 +26,28 @@ Para trabajar con este proyecto, existen dos opciones de instalación:
    5. Presiona `ENTER`.  
 
 ### Opción 2: Uso de Docker
+1. Ejecuta el siguiente comando en el terminal para construir la imagen Docker. Este comando descargará las dependencias necesarias y configurará el entorno. Se debe usar este preciso comando:
 
-**Nota:** Se recomienda seguir las instrucciones detalladas en `docker/docker_instructions.md` para una configuración completa.
+   ```bash
+   .../tu_fork$ docker build -t lancedblab .
+   ```
+
+2. Ejecutar el Contenedor 
+Una vez que la imagen se haya construido correctamente, ejecuta el siguiente comando para iniciar el contenedor:
+
+   ```bash
+   .../tu_fork$ docker run -p 8888:8888 lancedblab
+   ```
 
 ## Ejecución de los Notebooks
 
 Los notebooks en la carpeta `notebooks/` cubren los siguientes temas:
 
-- **`lanceDB.ipynb`**: Introducción y operaciones básicas en LanceDB.
+- **`00_intro_lancedb.ipynb`**: Introducción general a LanceDB. Cubre conceptos básicos.
+- **`Búsqueda_ANN_con_LanceDB.ipynb`**: Demostración de búsquedas aproximadas en estructuras vectoriales utilizando LanceDB.
+- **`consultas_vectoriales.ipynb`**: Ejercicios prácticos sobre cómo realizar consultas vectoriales complejas con LanceDB.
+- **`Tarea_LanceDB.ipynb`**: Template del notebook destinada a tarea.
+
 
 ## Tareas
 
@@ -46,3 +60,4 @@ Los notebooks en la carpeta `notebooks/` cubren los siguientes temas:
 3. Realiza la tarea.
 4. Envía un pull request.
 
+ 

@@ -29,14 +29,21 @@ Para trabajar con este proyecto, existen dos opciones de instalación:
 1. Ejecuta el siguiente comando en el terminal para construir la imagen Docker. Este comando descargará las dependencias necesarias y configurará el entorno. Se debe usar este preciso comando:
 
    ```bash
-   .../tu_fork$ docker build -t lancedblab .
+   docker build -t lance-db .
+
    ```
 
 2. Ejecutar el Contenedor 
 Una vez que la imagen se haya construido correctamente, ejecuta el siguiente comando para iniciar el contenedor:
 
    ```bash
-   .../tu_fork$ docker run -p 8888:8888 lancedblab
+   docker run -p 8888:8888 lance-db
+   ```
+
+3. Acceder en el navegador   
+
+   ```bash
+   http://127.0.0.1:8888/lab
    ```
 
 ## Ejecución de los Notebooks
@@ -57,7 +64,8 @@ Los notebooks en la carpeta `notebooks/` cubren los siguientes temas:
 
 1. Haz un fork del repositorio.
 2. Crea una nueva rama para tus cambios.
-3. Realiza la tarea.
-4. Envía un pull request.
+3. Crea una carpeta con tu clave unica en Tareas/clave_unica
+4. Realiza la tarea.
+5. Envía un pull request.
 
  

@@ -9,3 +9,4 @@ librosa
 pyarrow
 polars
 matplotlib
+jupyterlab
